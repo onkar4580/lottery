@@ -1,2 +1,2 @@
 # lottery
-It is a smart contract using solidity .
+It is a sample smart contract build with solidity.
